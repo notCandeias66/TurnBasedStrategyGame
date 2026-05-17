@@ -244,4 +244,4 @@ If you wish to use or adapt this work, please contact the author directly.
 | Name | GitHub | Contribution |
 |---|---|---|
 | Afonso Candeias | [@notCandeias66](https://github.com/notCandeias66) | Board generation, XML parser, turn execution & unit movement |
-| Rui Jesus | [@rui-iscte](https://github.com/rui-iscte) | Scene switching, combat animations, environment creation |
+| Rui Jesus | [@FamilaMontemor](https://github.com/FamilaMontemor) | Scene switching, combat animations, environment creation |
