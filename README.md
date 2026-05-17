@@ -217,15 +217,15 @@ To view the swordsman battle scene, make sure **Battle Cutscenes** is set to **O
 
 ### Gameplay Simulation
 
-https://www.youtube.com/watch?v=UtJyib_S1hY&t=1s
+[https://www.youtube.com/watch?v=UtJyib_S1hY&t=1s](https://www.youtube.com/watch?v=CWDJFLoj7kQ)
 
 ### Environment Creation
 
-https://www.youtube.com/watch?v=-kQzRxfOlI8&t=3s
+[https://www.youtube.com/watch?v=-kQzRxfOlI8&t=3s](https://www.youtube.com/watch?v=_iUXtjNqz6k)
 
 ### Project Explanation (Audio: Portuguese)
 
-https://www.youtube.com/watch?v=YEi4b1RiX-I&t=2s
+[https://www.youtube.com/watch?v=YEi4b1RiX-I&t=2s](https://www.youtube.com/watch?v=W3ukuJsYKpY)
 
 > **Note:** Two additional group members appear in this video. They were part of the project group but did not contribute to the codebase or documented work.
 
